@@ -8,7 +8,7 @@ Download checkpoints from:
 👉 https://huggingface.co/anonymous50531/RAL-review-model/tree/main  
 Put the folders under `./checkpoints`.  
 
-TODO: add the train scripts and dataset
+feel free to contact us if you have any problem.
 
 ---
 ### 🧬 Conda
